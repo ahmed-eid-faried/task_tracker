@@ -12,7 +12,7 @@ Task Tracker is a simple command-line application written in Go that helps users
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/task_tracker.git
+    git clone https://github.com/ahmed-eid-faried/task_tracker.git
     cd task_tracker
     ```
 2. Install dependencies:
