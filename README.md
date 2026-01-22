@@ -38,7 +38,10 @@ Task Tracker is a simple command-line application written in Go that helps users
 ### Examples
 ```bash
 # Build the application
-go build -o task-cli main.go
+# go build -o task-cli main.go
+go build -o task-cli.exe .
+# OR
+go build -o task-cli .
 
 # Add new tasks
 task-cli add "Buy groceries"
